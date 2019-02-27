@@ -1,0 +1,24 @@
+{
+  "name": "usingMongojs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "mongojs": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIClavelTe/usingMongojs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIClavelTe/usingMongojs/issues"
+  },
+  "homepage": "https://github.com/MIClavelTe/usingMongojs#readme",
+  "description": ""
+}
